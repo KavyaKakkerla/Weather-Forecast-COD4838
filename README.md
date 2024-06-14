@@ -1,9 +1,11 @@
-# Weather-Forecast-COD4838
+# Weather-Forecast-CT08WD494
 Title: CodeTech IT Solutions Internship - Task Documentation: Weather Forecast Application Using HTML, CSS, JavaScript
 
 INTERN INFORMATION:
 Name: Kakkkerla Kavya
-ID: C0D4838
+ID: -CT08WD494
+Domain: Web Development
+Duration May to June 2024
 
 Introduction
 
